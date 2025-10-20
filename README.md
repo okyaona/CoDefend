@@ -16,7 +16,7 @@ This repository provides the PyTorch implementation of CoDefend.
 
 There are many parameters involved, please feel free to play with option.py.
 
-Here are several examples:
+This is an example:
    
  - To run the experiment on CIFAR10 with 5 clients including 2 malicious clients manipulating smashed data with 100 epochs and 300 batch size:
    ```sh
